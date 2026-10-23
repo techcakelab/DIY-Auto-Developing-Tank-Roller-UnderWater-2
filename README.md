@@ -6,7 +6,7 @@
 [![Display: TM1637](https://img.shields.io/badge/Display-TM1637-orange.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Techcakelab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techcakelab)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Techcakelab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@techcakelab](https://youtu.be/aQTH92AWs2Q))
 
 An open-source, compact **Automated Film Development Tank Rotator** powered by the **ESP32-C3 Super Mini** microcontroller, an **N20 micro geared motor**, and an intuitive **single-knob Rotary Encoder UI**.
 
