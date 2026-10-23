@@ -6,6 +6,8 @@
 [![Display: TM1637](https://img.shields.io/badge/Display-TM1637-orange.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Techcakelab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techcakelab)
+
 An open-source, compact **Automated Film Development Tank Rotator** powered by the **ESP32-C3 Super Mini** microcontroller, an **N20 micro geared motor**, and an intuitive **single-knob Rotary Encoder UI**.
 
 Designed to automate continuous and intermittent agitation for standard daylight film processing tanks (such as **Paterson**, **Jobo**, and **AP**), ensuring consistent, repeatable development times for **B&W**, **C-41**, and **E-6** chemistry without manual fatigue or uneven streaking.
